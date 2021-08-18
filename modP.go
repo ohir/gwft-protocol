@@ -1,4 +1,4 @@
-package Protocol
+package protocol
 
 const me string = "/mP Protocol" // common module for others
 
